@@ -1,5 +1,5 @@
 # Dynamic-Fulfillment-ChatBot
-# Dynamic-Fulfillment-ChatBot
+author @ Fanmei Wang
 
 ## Overview
 This repository demonstrates a chatbot integration with Dialogflow using a Flask-based webhook. It highlights dynamic intent handling and personalized responses based on user input. The project serves as an educational example of a conversational AI implementation.
