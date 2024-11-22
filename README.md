@@ -40,21 +40,3 @@ This repository demonstrates a chatbot integration with Dialogflow using a Flask
 
 ---
 
-## Setup Instructions
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/<your-username>/Dynamic-Fulfillment-ChatBot.git
-   cd Dynamic-Fulfillment-ChatBot
-
-## Install dependencies:
-pip install -r requirements.txt
-
-
-## Add a .env file for sensitive variables: Create a .env file in the root directory with the following content:
-STUDENT_NUMBER=your-student-number
-NGROK_AUTH_TOKEN=your-ngrok-auth-token
-
-## Run the Flask app:
-python app.py
-
-
